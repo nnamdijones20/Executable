@@ -20,6 +20,7 @@ public class NotClickableTest {
 	WebDriver driver;
 	
 	//Comment2: run test below
+	//That is all
 	
 	@Test
 	public void runTest() {
